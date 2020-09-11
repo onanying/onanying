@@ -1,4 +1,4 @@
 ### Hello, World! 👋
 
-- Focusing on Go & PHP
+- Focusing on PHP & Go
 - Creator of @mix-php @mix-go frameworks

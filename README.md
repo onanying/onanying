@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-- Focusing on PHP.Swoole & Go & Microservice
+- Focusing on PHP & Go & Microservice
 - Creator of `mixphp` `mixgo` frameworks
 - Creator of 
   - [openmix.org](https://openmix.org) OpenMix: 开源全家桶

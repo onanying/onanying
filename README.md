@@ -17,7 +17,7 @@
 | [mix/cli](https://github.com/mix-php/cli)                 | `PHP`      | PHP command line interactive commander                                                                                                                       |
 | [mix/database](https://github.com/mix-php/database)       | `PHP`      | Simple database for use in multiple execution environments, with support for FPM, CLI, Swoole, WorkerMan, and optional connection pool (coroutine)           |
 | [mix/redis](https://github.com/mix-php/redis)             | `PHP`      | PHP Redis for use in multiple execution environments, with support for FPM, CLI, Swoole, WorkerMan, and optional connection pool (coroutine)                 |
-| [mix/grpc](https://github.com/mix-php/grpc)               | `PHP` `Go` | PHP gRPC based on Swoole coroutine, including protoc code generator, server, and client / 基于 Swoole 协程的 PHP gRPC 库，包含 protoc                                 |
+| [mix/grpc](https://github.com/mix-php/grpc)               | `PHP`,`Go` | PHP gRPC based on Swoole coroutine, including protoc code generator, server, and client / 基于 Swoole 协程的 PHP gRPC 库，包含 protoc                                 |
 | [mix/websocket](https://github.com/mix-php/websocket)     | `PHP`      | PHP WebSocket server and client based on Swoole coroutine / 基于 Swoole                                                                                        |
 | [mix/worker-pool](https://github.com/mix-php/worker-pool) | `PHP`      | Swoole-based worker pool, coroutine pool                                                                                                                     |
 

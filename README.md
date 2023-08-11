@@ -6,7 +6,7 @@
 
 ## This is a collection of awesome code libraries that I have written
 
-| Language                                                  | Library    | Description                                                                                                                                                  |
+| Library                                                  | Language    | Description                                                                                                                                                  |
 |-----------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [mix-go/xcli](https://github.com/mix-go/xcli)             | `Go`       | Command-line interaction and command management tool, also includes command-line parameter acquisition, middleware, program daemon, etc.                     |
 | [mix-go/xsql](https://github.com/mix-go/xsql)             | `Go`       | Lightweight database based on database/sql, fully functional and supports any database driver.                                                               |

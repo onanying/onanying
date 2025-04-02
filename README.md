@@ -1,3 +1,11 @@
+## I am Lj 🏂🏻
+
+- Full-stack engineer
+- Backend focusing on Golang & PHP & Lua
+- Frontend focusing on Vue & Flutter & Android
+
+## This is a collection of awesome code packages that I have written
+
 | Package                                                   | Language   | Description                                                                                                                                                  |
 |-----------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [mix-go/xsql](https://github.com/mix-go/xsql)             | `Go`       | Lightweight database based on database/sql, fully functional and supports any database driver.                                                               |

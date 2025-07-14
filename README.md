@@ -1,7 +1,7 @@
 ## I am Lj 🏂🏻
 
 - Full-stack engineer
-- Backend focusing on Golang & PHP & Lua
+- Backend focusing on Golang & PHP & Java & Python & Node.js & Lua
 - Frontend focusing on Vue & Flutter & Android
 
 ## This is a collection of awesome code packages that I have written
